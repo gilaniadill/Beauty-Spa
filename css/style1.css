@@ -1,0 +1,6 @@
+/* Style the buttons */
+
+  /* Style the active class (and buttons on mouse-over) */
+  .active, .link:hover {
+    color: #dc3545 ;
+  }
